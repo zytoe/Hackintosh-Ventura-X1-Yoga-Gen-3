@@ -27,7 +27,7 @@ My EFI for a Ventura 13.5.2 ThinkPad X1 Yoga Hackintosh
 
 ### Basic Usage
 
->Disclaimer: I do **NOT** recommend using this EFI as is. Read the [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/), know your hardware and Proceed with caution.
+>## Disclaimer: I do **NOT** recommend using this EFI as is. Read the [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/), know your hardware and Proceed with caution.
 
 #### Option 1: as is
 1. Check Compatibility
